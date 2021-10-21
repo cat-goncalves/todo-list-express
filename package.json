@@ -1,0 +1,25 @@
+{
+  "name": "todo-list-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat-goncalves/todo-list-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cat-goncalves/todo-list-express/issues"
+  },
+  "homepage": "https://github.com/cat-goncalves/todo-list-express#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3"
+  }
+}
