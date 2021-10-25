@@ -7,7 +7,7 @@ const ObjectID = require('mongodb').ObjectID //gives a function to create object
 
 var db, collection;
 
-const url = "mongodb+srv://<username>:<password>@cluster0.me8ts.mongodb.net/todo-list?retryWrites=true&w=majority";
+const url = "mongodb+srv://test:test@cluster0.me8ts.mongodb.net/todo-list?retryWrites=true&w=majority";
 const dbName = "todo-list";
 
 app.listen(3000, () => {
