@@ -41,7 +41,7 @@ body {
      line-height: 1.4;
      font-family: 'Arimo', arial, courier, sans-serif;
      background-color :rgb(103, 133, 189);
-     /* background-image: url(img/desk-background.jpeg); */
+     background-image: url(desk-background.jpeg);
      background-repeat:no-repeat;
      background-size: 100%;
      
